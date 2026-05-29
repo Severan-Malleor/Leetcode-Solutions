@@ -10,7 +10,7 @@
 
 Both work, but the pointer approach avoids creating an additional string and does less work overall.
 
-#Approach
+# Approach
 
 This solution relies on C/C++ array-to-pointer decay and avoids creating a reversed copy of the number.
 
