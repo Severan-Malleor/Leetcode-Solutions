@@ -1,4 +1,4 @@
-[Understanding Array Decay and Pointers](https://leetcode.com/problems/palindrome-number/solutions/8301653/understanding-array-decay-and-pointers-b-kzh0/)
+# [Understanding Array Decay and Pointers](https://leetcode.com/problems/palindrome-number/solutions/8301653/understanding-array-decay-and-pointers-b-kzh0/)
 
 # Intuition
 1. My first thought was to check if the integer is less than 0. Negative numbers cannot be palindromes because the - sign only appears on the left side.
